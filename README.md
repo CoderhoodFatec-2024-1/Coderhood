@@ -69,10 +69,10 @@
 ## :date: Product BackLog
 | ID   | User Stories                                                 | Épico                       | Sprint                                                    | Prioridade |
 | ---- | ------------------------------------------------------------ | --------------------------- | --------------------------------------------------------- | ---------- |
-| 1 | Como usuário, eu quero poder importar informações o clima via arquivo csv contendo os dados, para manter registros precisos.| Importar Dados climaticos Via Arquivo CSV | - | 1 |
+| 1 | Como usuário, eu quero poder importar informações do clima via arquivo csv, para manter registros precisos.| Importar Dados climaticos Via Arquivo CSV | - | 1 |
 | 2 | Como usuário, eu quero poder gerar relatórios, para melhor visualização dos dados | Gerar Relatório | - | 3 |
 | 3 | Como usuário, eu quero poder revisar e editar informações dados suspeitos, para evitar dados imprecisos. | Tratamento de Dados Suspeitos| - | 2 |
-| 4 | Como usuário, eu quero poder adicionar novas estações meteorológicas ao sistema para especificar ampliar minha base de dados.. | Adição de Novas Bases de Coleta | - | 4 |
+| 4 | Como usuário, eu quero poder adicionar novas estações meteorológicas ao sistema para ampliar minha base de dados. | Adição de Novas Bases de Coleta | - | 4 |
 | 5 | Como usuário, eu quero documentações detalhadas, incluindo um manual de usuário e instruções de instalação, para facilitar o uso e a manutenção do sistema.| Criar Documentação | - | 5 |
 
 
